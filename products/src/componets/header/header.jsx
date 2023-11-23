@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import img from '../../assests/1.jpg'
+import img from '../../assests/2.jpg'
 function Header() {
   return (
     <div className='header'>
