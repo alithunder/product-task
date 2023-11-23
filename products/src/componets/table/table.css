@@ -1,0 +1,13 @@
+table {
+    border: 1px solid white;
+    background-color: #F8F5F5;
+    width: 100%;
+      width: 100%;
+      max-width: 1000px;
+      margin: auto;
+  }
+  .tr1{
+    background-color: #D9D9D9;
+    padding: 10px;
+    border: 1px solid white;
+  }
